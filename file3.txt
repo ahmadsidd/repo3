@@ -1,0 +1,6 @@
+this
+is 
+my 
+new
+file
+named file3.txt
